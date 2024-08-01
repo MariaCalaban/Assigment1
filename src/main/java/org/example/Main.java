@@ -47,6 +47,8 @@ public class Main {
         System.out.println("Vremea este: " + op.vremebuna(5));
 
         op.countToHundred(50);
+        op.countToHundred(50);
+        op.countToHundred(50);
     }
 
 }
